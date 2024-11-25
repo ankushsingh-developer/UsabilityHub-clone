@@ -1,2 +1,2 @@
 # UsabilityHub-clone
-This project is a modern homepage clone of the website UsabilityHub, built entirely with HTML and CSS. It uses CSS Flexbox to create a clean, responsive layout that adapts seamlessly to different screen sizes. 
+This project is a modern homepage clone of the website UsabilityHub, crafted using HTML and CSS. By leveraging the power of CSS Flexbox, the design achieves a clean, responsive layout that adapts effortlessly to various screen sizes. This clone faithfully mirrors the original website's aesthetics while showcasing modern web development techniques for a sleek and professional finish. 
